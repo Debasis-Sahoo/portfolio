@@ -83,7 +83,7 @@ nav ul li :hover{
 .topsec{
     width: 100%;
     height: auto;
-    background-image: url(/asets/images/Background.jpg);
+    background-image: url(asets/images/Background.jpg);
     background-size: cover;
     background-position: center;
 
